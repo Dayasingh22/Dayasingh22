@@ -4,16 +4,25 @@ I'm a passionate Full Stack Developer who enjoys building scalable, user-centric
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-👨‍💻  Full Stack Developer with a strong foundation in modern web technologies.\
-🎓  Bachelor’s in Computer Science Engineering with specialization in Software Development.\
-💡  Constantly learning and diving deeper into LLMs, Blockchain, and Cloud Architecture.\
-✍️  In my free time, I enjoy Graphic Design, discovering new shows, and exploring creative ideas.\
-💬  Open to collaborations, discussions, and any interesting tech chat!
-✉️  You can shoot me an email at dayasingh003@gmail.com! I'll try to respond as soon as I can.\
-📫  How to reach me via Phone/Whatsapp: +918920781812
+👨‍💻  &nbsp;Full Stack Developer with a strong foundation in modern web technologies.\
+🎓  &nbsp;Bachelor’s in Computer Science Engineering with specialization in Software Development.\
+💡  &nbsp;Constantly learning and diving deeper into LLMs, Blockchain, and Cloud Architecture.\
+✍️  &nbsp;In my free time, I enjoy Graphic Design, discovering new shows, and exploring creative ideas.\
+💬  &nbsp;Open to collaborations, discussions, and any interesting tech chat!
+✉️  &nbsp;You can shoot me an email at dayasingh003@gmail.com!\
+📫  &nbsp;How to reach me via Phone/Whatsapp: +918920781812
 
 **Languages:**  
-
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" 
+       alt="Next.js" height="20" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+       alt="Python" height="20" /></code>
+<code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" 
+       alt="PostgreSQL" height="20" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" 
+       alt="GraphQL" height="20" /></code>
+<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" 
+       alt="Vercel" height="20" /></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -38,7 +47,6 @@ I'm a passionate Full Stack Developer who enjoys building scalable, user-centric
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://daya.netlify.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.daya.netlify.com-blue?style=flat-square&logo=google-chrome"></a>
 <a href="mailto:dayasingh003@@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-dayasingh003@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
