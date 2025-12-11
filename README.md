@@ -7,11 +7,10 @@ I'm a passionate Full Stack Developer who enjoys building scalable, user-centric
 👨‍💻  Full Stack Developer with a strong foundation in modern web technologies.\
 🎓  Bachelor’s in Computer Science Engineering with specialization in Software Development.\
 💡  Constantly learning and diving deeper into LLMs, Blockchain, and Cloud Architecture.\
-🌱 &nbsp;I'm on track for learning more about backend development, Blockchain, and Cloud Architecture.\
 ✍️  In my free time, I enjoy Graphic Design, discovering new shows, and exploring creative ideas.\
-✍️  In my free time, I enjoy Graphic Design, discovering new shows, and exploring creative ideas.\
-✉️ &nbsp;You can shoot me an email at dayasingh003@gmail.com! I'll try to respond as soon as I can.\
-📫 How to reach me via Phone/Whatsapp: +918920781812
+💬  Open to collaborations, discussions, and any interesting tech chat!
+✉️  You can shoot me an email at dayasingh003@gmail.com! I'll try to respond as soon as I can.\
+📫  How to reach me via Phone/Whatsapp: +918920781812
 
 **Languages:**  
 
