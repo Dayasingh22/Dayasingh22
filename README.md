@@ -1,5 +1,5 @@
 ### Hi there, I'm Daya👦,
-🚀 Full Stack Developer | Backend Enthusiast | Tech Explorer.
+🚀 Full Stack Developer | Backend Enthusiast | Tech Explorer.\
 I'm a passionate Full Stack Developer who enjoys building scalable, user-centric applications. I love exploring new technologies, experimenting with quick hacks, and creating products that make life easier.
 
 ### 👨🏻‍💻 &nbsp;About Me
